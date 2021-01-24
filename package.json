@@ -1,5 +1,5 @@
 {
-  "name": "nodejsMySQL",
+  "name": "node-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,23 +7,15 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Viklysx/REST-API-Node-js.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Viklysx/REST-API-Node-js/issues"
-  },
-  "homepage": "https://github.com/Viklysx/REST-API-Node-js#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.4.0"
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^1.19.0"
   }
 }
