@@ -1,1 +1,1 @@
-# REST-API-Node-js
+Обучающий таск, в котором познакомилась с MySQL, REST API и немного коснулась GraphQL.
